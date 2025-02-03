@@ -1,0 +1,1 @@
+Later in Semester 2 of Computer Programming 3, I want to create a Programming project using all the important and necessary git skills as well as Java syntax I've learned to make a platform or side-scroller game. It could work similarly to a Super Mario Bros game where you control a character and move around a world.
