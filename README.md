@@ -1,2 +1,2 @@
 # Git-Practice
-My favorite snack is a peanut butter pretzel.
+My least favorite food is scrambled eggs.
